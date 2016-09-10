@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1431369537 source:c:\users\nickcsepc\documents\coding\time in words\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+

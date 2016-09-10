@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1437010736 source:c:\users\nickcsepc\documents\insertionsort1\main.cpp
+	<map>
+	<set>
+	<list>
+	<cmath>
+	<ctime>
+	<deque>
+	<queue>
+	<stack>
+	<bitset>
+	<cstdio>
+	<vector>
+	<cstdlib>
+	<numeric>
+	<sstream>
+	<iostream>
+	<algorithm>
+

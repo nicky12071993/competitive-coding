@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1437048225 source:c:\users\nickcsepc\documents\pangrams\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+	<string>
+

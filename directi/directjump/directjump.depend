@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1448898233 source:c:\users\nickcsepc\documents\directjump\main.cpp
+	<iostream>
+	<cstdio>
+	<climits>
+	<cstring>
+	<algorithm>
+	<cmath>
+

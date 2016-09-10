@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1454695365 source:c:\users\nickcsepc\documents\competitive coding\hackerrank\sherlockandpair\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+

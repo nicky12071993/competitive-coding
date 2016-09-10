@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1437116594 source:c:\users\nickcsepc\documents\anagram\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+	<cstring>
+

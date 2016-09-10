@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1431499990 source:c:\users\nickcsepc\documents\finddigits\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+

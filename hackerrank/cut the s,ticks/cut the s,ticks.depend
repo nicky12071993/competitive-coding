@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1437564028 source:c:\users\nickcsepc\documents\cut the s,ticks\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<bits/stdc++.h>
+	<iostream>
+	<algorithm>
+

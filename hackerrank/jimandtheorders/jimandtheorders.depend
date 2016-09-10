@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1454619084 source:c:\users\nickcsepc\documents\competitive coding\hackerrank\jimandtheorders\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1437047707 source:c:\users\nickcsepc\documents\test\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+	<string>
+	<stdio.h>
+

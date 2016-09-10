@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1446979428 source:c:\users\nickcsepc\documents\funnystring\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+	<cstring>
+

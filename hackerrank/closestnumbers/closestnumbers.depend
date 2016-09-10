@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1437039192 source:c:\users\nickcsepc\documents\closestnumbers\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+
